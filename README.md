@@ -19,7 +19,7 @@ Whether you're looking for someone to develop your entire application or integra
 
 ## ⚙️ Tech Stack
 
-### 🧠 Linguagens & Frameworks
+### 🧠 Languages ​​& Frameworks
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs" />
   <br/>
@@ -28,7 +28,7 @@ Whether you're looking for someone to develop your entire application or integra
 
 ---
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 <div>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </div>
@@ -42,7 +42,7 @@ Whether you're looking for someone to develop your entire application or integra
 
 ---
 
-### 🛠️ Ferramentas & IDEs
+### 🛠️ Tools & IDEs
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
   <br/>
@@ -51,7 +51,7 @@ Whether you're looking for someone to develop your entire application or integra
 
 ---
 
-### 🎨 Design & Outros
+### 🎨 Design & Others
 <div>
   <img src="https://skillicons.dev/icons?i=figma,notion,materialui,arduino" />
 </div>
