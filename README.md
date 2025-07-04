@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41a5312c-6e57-4648-939a-a5e9192967ce" alt="Dev Error Background" />
+  <img src="https://github.com/user-attachments/assets/924ec306-15a4-43c8-978c-e414ea896a12" alt="Dev Error Background" />
 </p>
 
 <h1 align="center">💻 Dev Error</h1>
@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 Hello, world
+## Hy, world
 
 I'm **Dev Error** — a freelance developer focused on delivering solid and secure IT solutions.
 
