@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae93afa3-50f0-4f76-8506-7d6376c33853" alt="Dev Error Background" />
+  <img src="https://github.com/user-attachments/assets/41a5312c-6e57-4648-939a-a5e9192967ce" alt="Dev Error Background" />
 </p>
 
 <h1 align="center">💻 Dev Error</h1>
